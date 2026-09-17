@@ -1,5 +1,3 @@
-# sql-property-analytics
-
 # SQL Property Analytics
 
 A collection of 15 intermediate SQL queries for a property management analytics scenario.  
